@@ -1,0 +1,7 @@
+name 'cheffu'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures cheffu'
+long_description 'Installs/Configures cheffu'
+version '0.1.0'
